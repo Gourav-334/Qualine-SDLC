@@ -4,7 +4,7 @@
 Qualine stands for ***"Quality Engine"***. The steps or phases explained in this SDLC provide not only **understandable & light transforamtion** at each step, but also **quality software** product at the end if protocols are followed properly.
 
 ## Phases Involved
-### Various Phase's Diagram
+### Phase Diagram
 ![Qualine SDLC Diagram](https://github.com/Gourav-334/Qualine-SDLC/blob/main/Qualine%20SDLC/Image%20files/Life%20Cycle.png)
 
 - Blocks with *same colour* are part of same phases.
