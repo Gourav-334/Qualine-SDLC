@@ -25,3 +25,6 @@ My name is **Gourav Kumar Mallick** & I made this repositary during the time I a
 By sharing this through my repositary, my goal is to help those *struggling or simply straight up confused* to pick a procedure that can guarantee a good product at the end.
 
 Other than following the procedures, my faith in God sticks me to my work as a service & devotion to God. He hints in all aspects of life in form of material level. And my life doesn't stick around software only, I am a human being with commonly found qualities & I demand for genuine connections with others as any other person would. Thanks for coming this far reading! Have a nice day!
+
+## Note
+To know how to use it in large scale projects, you will be seeing them in a future project soon, link would be provided here.
