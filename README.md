@@ -38,24 +38,18 @@ Qualine stands for ***"Quality Engine"***. The steps or phases explained in this
 ## Directory Structure (Overview)
 ### Image files/
 - Life cycle
+- Factorial Example Flowchart
 
-### Phases/
-- 1\) Objectives/
-    - Phase description (objectives).md
-- 2\) User Design/
-    - Phase description (user design).md
-- 3\) Logic Planning/
-    - Phase description (logic planning).md
-- 4\) Flowcharts/
-    - Phase description (flowcharts).md
-- 5\) Pseudo Codes/
-    - Phase description (pseudo codes).md
-- 6\) Actual Codes/
-    - Phase description (actual codes).md
-- 7\) Deployment/
-    - Phase description (deployment).md
-- 8\) Feedback & Addition/
-    - Phase description (feedback & description).md
+### Phase Description/
+- 0\) General note
+- 1\) Phase description (objectives)
+- 2\) Phase description (user design)
+- 3\) Phase description (logic planning)
+- 4\) Phase description (flowcharts)
+- 5\) Phase description (pseudo codes)
+- 6\) Phase description (actual codes)
+- 7\) Phase description (deployment)
+- 8\) Phase description (feedback & addition)
 
 ## Directory Structure (Brief)
 - **Image files:** Contains the images used in whole repositary.
