@@ -57,3 +57,6 @@ Qualine stands for ***"Quality Engine"***. The steps or phases explained in this
 
 ## Licensing
 This repositary is licensed under ***Apache 2.0***, a *permissive copyright* license. Know about your legal rights regarding use of this repositary in **LICENSE.md** file in the same directory (root) as this file.
+
+## Note
+To know how to use it in large scale projects, you will be seeing them in a future project soon, link would be provided here.
