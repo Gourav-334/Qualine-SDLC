@@ -40,6 +40,9 @@ Qualine stands for ***"Quality Engine"***. The steps or phases explained in this
 - Life cycle
 - Factorial Example Flowchart
 
+## Resources Used
+- [GCC Compiler](https://gcc.gnu.org/onlinedocs/libstdc++/manual/license.html)
+
 ### Phase Description/
 - 0\) General note.md
 - 1\) Phase description (objectives).md
