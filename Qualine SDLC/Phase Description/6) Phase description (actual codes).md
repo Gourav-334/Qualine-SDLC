@@ -89,12 +89,6 @@ Enter a number: 5
 So, factorial = 120
 ```
 
-### Testing (Test 1):
-```
-Enter a number: 5
-So, factorial = 120
-```
-
 ### Testing (Test 2):
 > Let's check if the conditions are working as expected or not.
 ```
