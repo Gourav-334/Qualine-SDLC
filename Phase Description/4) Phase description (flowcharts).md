@@ -13,7 +13,7 @@
 
 ## Factorial Example
 ### Flowchart:
-![Factorial flowchart](https://github.com/Gourav-334/Qualine-SDLC/blob/main/Qualine%20SDLC/Image%20files/Factorial%20Example%20Flowchart.png)
+![Factorial flowchart](https://github.com/Gourav-334/Qualine-SDLC/blob/main/Image%20files/Factorial%20Example%20Flowchart.png)
 - Though it looks simple for our chosen easy to understand example, but at each step we *gradually* make it more detailed.
 - The statement in rectangle will be expanded in upcoming phases.
 - In more complex problems, the flowcharts may look more detailed & complicated.

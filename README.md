@@ -5,7 +5,7 @@ Qualine stands for ***"Quality Engine"***. The steps or phases explained in this
 
 ## Phases Involved
 ### Phase Diagram
-![Qualine SDLC Diagram](https://github.com/Gourav-334/Qualine-SDLC/blob/main/Qualine%20SDLC/Image%20files/Life%20Cycle.png)
+![Qualine SDLC Diagram](https://github.com/Gourav-334/Qualine-SDLC/blob/main/Image%20files/Life%20Cycle.png)
 
 - Blocks with *same colour* are part of same phases.
 - Blocks pointing each other with *arrows* mean repitition in phases.
