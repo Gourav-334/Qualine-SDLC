@@ -7,6 +7,7 @@
 - This is the **3rd phase** in the *Qualine SDLC*.
 - In code problems, it can be described in a single file.
 - But in large scale projects, it might be divided into multiple files to make clear logic planning.
+- This could also include planning on a notebook before jumping into documanetation for it.
 - These multiple files may represent *different features or concepts* present in whole project.
 - And what these files contain can be *formulae* which would be used during implementation & also *detailed explaination* with diagrams (if required) about mechanisms while performing various operations.
 - When working fully digitally, consider storing all *user design* files of various versions in a folder named **"3\) Logic Planning"**.
