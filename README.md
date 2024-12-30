@@ -1,65 +1,92 @@
-# Qualine SDLC (v1.0.0)
+# QUALINE (v2.0.0)
 
-## About
-Qualine stands for ***"Quality Engine"***. The steps or phases explained in this SDLC provide not only **understandable & light transforamtion** at each step, but also **quality software** product at the end if protocols are followed properly.
 
-## Phases Involved
-### Phase Diagram
-![Qualine SDLC Diagram](https://github.com/Gourav-334/Qualine-SDLC/blob/main/Image%20files/Life%20Cycle.png)
+## i. SDLC Stages
 
-- Blocks with *same colour* are part of same phases.
-- Blocks pointing each other with *arrows* mean repitition in phases.
+$$ \fbox{1) Standard Research} $$
+$$ \downarrow $$
+$$ \fbox{2) Objectives} $$
+$$ \downarrow $$
+$$ \fbox{3) Required Tool Listing} $$
+$$ \downarrow $$
+$$ \fbox{4) User Design} $$
+$$ \downarrow $$
+$$ \fbox{5) Component Distribution} $$
+$$ \downarrow $$
+$$ \fbox{6) Implementation} $$
+$$ \downarrow $$
+$$ \fbox{7) Product Deployment} $$
+$$ \downarrow $$
+$$ \fbox{8) Feedback \& Continuation} $$
 
-### Stages In Order (Overview)
-1. Objectives
-2. User design
-3. Logic planning
-4. Flowcharts
-5. Pseudo code <-> Algorithm improvement
-6. Actual code -> Testing <-> Debugging
-7. Deployment
-8. Feedback & Addition
 
-### Stages In Order (Small Explaination)
-> More brief explaination is available at the subdirectories mentioned at the end, as per the phase.
+## ii. Ideal Software Attributes
 
-- **Objectives:** The 1st phase in Qualine SDLC, where various objectives of the problem or project are mentioned.
-- **User design:** The 2nd phase where the expected interface of the end product is set.
-- **Logic planning:** The 3rd phase, where the formulae & logics to be used in the problem are crafted.
-- **Flowcharts:** The 4th phase, where flowcharts of logics are created.
-- **Pseudo code:** The first part of the 5th phase, where the pseudo codes for the logics in flowcharts are written.
-- **Algorithm Improvement:** The second part of the 5th phase, where the bottlenecks from the pseudo codes are fixed.
-- **Actual code:** The first part of the 6th phase, where the final pseudo code is converted to actual code.
-- **Testing:** The second part of the 6th phase, where the testing on actual code is performed.
-- **Debugging:** The third part of the 6th phase, where the bugs found through testing are fixed.
-- **Deployment:** The 7th phase, where the final output (product) is deployed or dispatched.
-- **Feedback & Addition:** The 8th phase, where the feedback are gained through users, as well as the new requirements are set.
+- **Standards** (from stage 1)
+- **Portability** (from stage 1,5)
+- **User friendly** (from stage 4)
+- **Scalability** (from stage 5)
+- **Cohesiveness** (from stage 5)
+- **Optimization** (from stage 5,6)
+- **Clean documentation** (from stage 6,7)
+- **Security** (from stage 6,8)
 
-## Directory Structure (Overview)
-### Image files/
-- Life cycle
-- Factorial Example Flowchart
 
-## Resources Used
-- [GCC Compiler](https://gcc.gnu.org/onlinedocs/libstdc++/manual/license.html)
+## iii. Stages Summary
 
-### Phase Description/
-- 0\) General note.md
-- 1\) Phase description (objectives).md
-- 2\) Phase description (user design).md
-- 3\) Phase description (logic planning).md
-- 4\) Phase description (flowcharts).md
-- 5\) Phase description (pseudo codes).md
-- 6\) Phase description (actual codes).md
-- 7\) Phase description (deployment).md
-- 8\) Phase description (feedback & addition).md
+### 1. Standard Research:
+- **1.1** Find research source.
+- **1.2** Study the standards.
+- **1.3** Write them down.
+- **1.4** Make modifications.
+- **1.5** Set rules & conventions.
 
-## Directory Structure (Brief)
-- **Image files:** Contains the images used in whole repositary.
-- **Phases:** Contains folders of various phases in *Qualine SDLC* with a file with exaplaination & some examples.
+### 2. Objectives:
+- **2.1** Set objectives of the project.
+- **2.2** Write what are common features.
+- **2.3** Write what are unique features.
 
-## Licensing
-This repositary is licensed under ***Apache 2.0***, a *permissive copyright* license. Know about your legal rights regarding use of this repositary in **LICENSE.md** file in the same directory (root) as this file.
+### 3. Required Tools Listing:
+- **3.1** List the must required tools.
+- **3.2** List the extra tools.
 
-## Note
-To know how to use it in large scale projects, you will be seeing them in a future project soon, link would be provided here.
+### 4. User Design:
+- **4.1** Know the target audience.
+- **4.2** Study other software in same category.
+- **4.3** Design user friendly interface.
+
+### 5. Component Distribution:
+- **5.1** Make directory architecture.
+- **5.2** Distribute work to libraries.
+- **5.3** List possibly coming sub-components.
+- **5.4** Serially arrange sequence of implementation.
+- **5.5** Write rules for code structure.
+
+### 6. Implementation:
+- **6.1** Write sequential algorithms for a sub-component.
+- **6.2** Make test cases.
+- **6.3** Write the code with precautions.
+- **6.4** Test & debug.
+- **6.5** Map flowchart & eliminate overheads.
+- **6.6** Repeat until all sub-components are covered.
+
+### 7. Product Deployement:
+- **7.1** Writing descriptive documentation journal.
+- **7.2** Deployement with any well-known versioning system.
+
+### 8. Feedback & Continuation:
+- **8.1** Public polls to be released among users for feedback.
+- **8.2** Point of repeating whole SDLC cycle.
+
+>**<u>NOTE</u>:**
+> - Implementation phase includes parallel version controlling.
+> - VCS commits must have proper & descriptive commit message.
+> - Documentation must be written with professional & respectful tone.
+> - Documentation must also list used software with appropriate license copies.
+
+
+## iv. Control Flow Diagram
+
+![CFD](./Images/cfd.png)
+
+---
