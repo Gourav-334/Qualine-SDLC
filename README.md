@@ -3,9 +3,9 @@
 
 ## i. SDLC Stages
 
-$$ \fbox{1) Standard Research} $$
+$$ \fbox{1) Objectives} $$
 $$ \downarrow $$
-$$ \fbox{2) Objectives} $$
+$$ \fbox{2) Standard Research} $$
 $$ \downarrow $$
 $$ \fbox{3) Required Tool Listing} $$
 $$ \downarrow $$
@@ -27,6 +27,7 @@ $$ \fbox{8) Feedback \& Continuation} $$
 - **User friendly** (from stage 4)
 - **Scalability** (from stage 5)
 - **Cohesiveness** (from stage 5)
+- **Low coupling** (from stage 5,6)
 - **Optimization** (from stage 5,6)
 - **Clean documentation** (from stage 6,7)
 - **Security** (from stage 6,8)
@@ -34,17 +35,17 @@ $$ \fbox{8) Feedback \& Continuation} $$
 
 ## iii. Stages Summary
 
-### 1. Standard Research:
-- **1.1** Find research source.
-- **1.2** Study the standards.
-- **1.3** Write them down.
-- **1.4** Make modifications.
-- **1.5** Set rules & conventions.
+### 1. Objectives:
+- **1.1** Set objectives of the project.
+- **1.2** Write what are common features.
+- **1.3** Write what are unique features.
 
-### 2. Objectives:
-- **2.1** Set objectives of the project.
-- **2.2** Write what are common features.
-- **2.3** Write what are unique features.
+### 2. Standard Research:
+- **2.1** Find research source.
+- **2.2** Study the standards.
+- **2.3** Write them down.
+- **2.4** Make modifications.
+- **2.5** Set rules & conventions.
 
 ### 3. Required Tools Listing:
 - **3.1** List the must required tools.
@@ -63,15 +64,16 @@ $$ \fbox{8) Feedback \& Continuation} $$
 - **5.5** Write rules for code structure.
 
 ### 6. Implementation:
-- **6.1** Write sequential algorithms for a sub-component.
+- **6.1** Document sequential algorithms for a sub-component.
 - **6.2** Make test cases.
 - **6.3** Write the code with precautions.
 - **6.4** Test & debug.
 - **6.5** Map flowchart & eliminate overheads.
-- **6.6** Repeat until all sub-components are covered.
+- **6.6** Document performance & complexity analysis.
+- **6.7** Repeat until all sub-components are covered.
 
 ### 7. Product Deployement:
-- **7.1** Writing descriptive documentation journal.
+- **7.1** Document contributing open-source tools with their licenses.
 - **7.2** Deployement with any well-known versioning system.
 
 ### 8. Feedback & Continuation:
@@ -79,14 +81,13 @@ $$ \fbox{8) Feedback \& Continuation} $$
 - **8.2** Point of repeating whole SDLC cycle.
 
 >**<u>NOTE</u>:**
-> - Implementation phase includes parallel version controlling.
+> - During stage 5 & 6, always consider the ideal software qualities.
 > - VCS commits must have proper & descriptive commit message.
 > - Documentation must be written with professional & respectful tone.
-> - Documentation must also list used software with appropriate license copies.
 
 
 ## iv. Control Flow Diagram
 
-![CFD](./Images/cfd.png)
+<img src="./assets/cfd.png" alt="CFD" style="width:650px; height:auto;">
 
 ---
