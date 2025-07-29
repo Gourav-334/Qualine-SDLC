@@ -63,54 +63,57 @@ $$ \fbox{8) Feedback and Continuation} $$
 - **3.2** List the extra tools/dependecies.
 
 
-### 4. User Design:
+### 4. Case Study
 
 - **4.1** Know the target audience.
 - **4.2** Study other software in same category.
-- **4.3** Design user friendly interface.
+- **4.3** Make modifications to the objectives of the project.
 
 
-### 5. Component Distribution:
+### 5. User Interface
 
-- **5.1** Make & finalize architecture.
-- **5.2** Distribute work to libraries.
-- **5.3** List possibly coming sub-components.
-- **5.4** Serially arrange sequence of implementation.
-- **5.5** Write rules for code structure.
+- **5.1** Design all user interfaces.
 
 
-### 6. Implementation:
+### 6. Component Distribution:
 
-- **6.1** Document sequential algorithms for a sub-component.
-- **6.2** Make test cases.
-- **6.3** Write the code with precautions.
-- **6.4** Test & debug.
-- **6.5** Map flowchart & eliminate overheads.
-- **6.6** Document performance & complexity analysis.
-- **6.7** Repeat until all sub-components are covered.
-
-
-### 7. Product Deployement:
-
-- **7.1** Document contributing open-source tools with their licenses.
-- **7.2** Deployement with any well-known versioning system.
+- **6.1** Write macro-level working of program in steps.
+- **6.2** Map out written macro-level working on graph.
+- **6.3** Describe micro-level working of each macro step.
+- **6.4** Map out written micro-level working on graph.
+- **6.5** As per order of implementation, divide it into maneagable parts.
+- **6.6** As per the order of implementation, list all components required at each stage.
+- **6.7** Divide each component into sub-components.
+- **6.8** Assign each component/ sub-component into different directories.
+- **6.9** Make order of implementation of components/ sub-components.
 
 
-### 8. Feedback & Continuation:
+### 7. Implementation:
 
-- **8.1** Public polls to be released among users for feedback.
-- **8.2** Point of repeating whole SDLC cycle.
+- **7.1** Document sequential algorithm for a sub-component.
+- **7.2** Map graph, eliminate overheads & rewrite algorithm.
+- **7.3** Make test cases.
+- **7.4** Write the code with precautions.
+- **7.5** Test & debug.
+- **7.6** Document performance & complexity analysis.
+- **7.7** Repeat until all sub-components are covered.
+
+
+### 8. Product Deployement:
+
+- **8.1** Document contributing open-source tools with their licenses.
+- **8.2** Deployement with any well-known versioning system.
+
+
+### 9. Feedback & Continuation:
+
+- **9.1** Public polls to be released among users for feedback.
+- **9.2** Point of repeating whole SDLC cycle.
 
 
 >**<u>NOTE</u>:**
-> - Skill gathering is serially inserted when need becomes visible.
-> - During stage 5 & 6, always consider the ideal software qualities.
+> - Skill gathering is serially inserted when needs becomes visible.
+> - During stage **5** & **6**, always consider the ideal software qualities.
 > - Documentation must be written with professional & respectful tone.
-
-
-
-## iv. Control Flow Diagram
-
-<img src="./assets/cfd.png" alt="CFD" style="width:650px; height:auto;">
 
 ---
