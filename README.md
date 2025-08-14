@@ -81,11 +81,7 @@ $$ \fbox{8) Feedback and Continuation} $$
 - **6.2** Map out written macro-level working on graph.
 - **6.3** Describe micro-level working of each macro step.
 - **6.4** Map out written micro-level working on graph.
-- **6.5** As per order of implementation, divide it into maneagable parts.
-- **6.6** As per the order of implementation, list all components required at each stage.
-- **6.7** Divide each component into sub-components.
-- **6.8** Assign each component/ sub-component into different directories.
-- **6.9** Make order of implementation of components/ sub-components.
+- **6.5** Make directory structure for components & their sub-components.
 
 
 ### 7. Implementation:
@@ -113,7 +109,8 @@ $$ \fbox{8) Feedback and Continuation} $$
 
 >**<u>NOTE</u>:**
 > - Skill gathering is serially inserted when needs becomes visible.
-> - During stage **5** & **6**, always consider the ideal software qualities.
+> - Order of implementation must always be linear as per flow of program.
+> - During stage **6** & **7**, always consider the ideal software qualities.
 > - Documentation must be written with professional & respectful tone.
 
 ---
